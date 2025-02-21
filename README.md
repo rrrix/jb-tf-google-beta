@@ -17,4 +17,6 @@ The provider hashicorp/google-beta does not support resource type
 "google-beta_project_service_identity".
 ```
 
+## Example Screenshot
+
 ![example.png](.github/assets/example.png)
